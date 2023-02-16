@@ -1,1 +1,2 @@
-Hello Artifactory and 
+Hello Artifactory and Sonar
+Today is Thursday
